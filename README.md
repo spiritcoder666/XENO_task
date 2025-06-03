@@ -112,7 +112,7 @@ The API documentation is available via Swagger UI at `/api-docs` when running th
 
 ## Deployment
 
-The application is deployed at [https://pulse-crm.vercel.app]((https://minicrmplatform.netlify.app/))
+The application is deployed at [Pulse_CRM_AT_NETLIFY](https://minicrmplatform.netlify.app/)
 
 ## License
 
