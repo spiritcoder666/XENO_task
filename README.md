@@ -66,7 +66,7 @@ The platform integrates AI in several ways:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pulse-crm.git
+   git clone [https://github.com/spiritcoder666/XENO_task.git]
    cd pulse-crm
    ```
 
